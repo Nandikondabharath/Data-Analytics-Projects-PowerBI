@@ -38,4 +38,3 @@ This repository contains a Power BI project and the source sales data used to bu
 
 ---
 
-If you want, I can also add short descriptions directly into the repository README as a badge-style summary, create a CHANGELOG entry, or create a small text file next to each file with a formal description (e.g., PowerBI_Project1.README.md and Sales.README.md).
